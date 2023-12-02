@@ -1,0 +1,14 @@
+H:\20231202\Urok3\Lesson 3\bin\Debug\net8.0\Lesson 3.exe
+H:\20231202\Urok3\Lesson 3\bin\Debug\net8.0\Lesson 3.deps.json
+H:\20231202\Urok3\Lesson 3\bin\Debug\net8.0\Lesson 3.runtimeconfig.json
+H:\20231202\Urok3\Lesson 3\bin\Debug\net8.0\Lesson 3.dll
+H:\20231202\Urok3\Lesson 3\bin\Debug\net8.0\Lesson 3.pdb
+H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\Lesson 3.GeneratedMSBuildEditorConfig.editorconfig
+H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\Lesson 3.AssemblyInfoInputs.cache
+H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\Lesson 3.AssemblyInfo.cs
+H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\Lesson 3.csproj.CoreCompileInputs.cache
+H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\Lesson 3.dll
+H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\refint\Lesson 3.dll
+H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\Lesson 3.pdb
+H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\Lesson 3.genruntimeconfig.cache
+H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\ref\Lesson 3.dll
