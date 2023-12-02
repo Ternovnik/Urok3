@@ -12,3 +12,4 @@ H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\refint\Lesson 3.dll
 H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\Lesson 3.pdb
 H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\Lesson 3.genruntimeconfig.cache
 H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\ref\Lesson 3.dll
+H:\20231202\Urok3\Lesson 3\obj\Debug\net8.0\Lesson 3.sourcelink.json
